@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/donoaustin08/ActiveDirectoryLab/blob/main/README.md)
 - <b>Next-Gen Virtual Firewall Lab</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>SOC Automation</b>
